@@ -1,0 +1,14 @@
+.root {
+  height: 100vh;
+
+  canvas {
+    display: block;
+  }
+}
+
+:global {
+  body {
+    margin: 0;
+    background-color: #333;
+  }
+}
