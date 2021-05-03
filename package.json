@@ -21,8 +21,8 @@
   "dependencies": {
     "d3-force": "^2.0.1",
     "d3-selection": "^1.4.0",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "regenerator-runtime": "^0.13.3"
   }
 }
